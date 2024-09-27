@@ -1,1 +1,1 @@
-Some demos I did while learning OpenCV
+Some projects I did while learning OpenCV
